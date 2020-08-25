@@ -1,11 +1,11 @@
 /**
- * @ClassName ZeroToNintyNineDictionary
+ * @ClassName ZeroToNinetyNineDictionary
  * @Description one of the IDictionary implements
  * @Author Shawn
  * @Date 2020/8/25 17:06
  * @Version 1.0
  */
-public class ZeroToNintyNineDictionary implements IDictionary {
+public class ZeroToNinetyNineDictionary implements IDictionary {
     /**
      * this is a example
      */

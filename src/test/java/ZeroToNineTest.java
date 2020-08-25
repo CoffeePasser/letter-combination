@@ -20,7 +20,7 @@ public class ZeroToNineTest {
         List<String> expectedResult = Arrays.asList(expectedStringArray);
         LetterCombination letterCombination = new LetterCombination();
         // IDictionary IDictionary = new ZeroToNineDictionary();
-        IDictionary IDictionary = new ZeroToNintyNineDictionary();
+        IDictionary IDictionary = new ZeroToNinetyNineDictionary();
         // acquire result
         List<String> result = letterCombination.letterCombination(numbers, IDictionary);
         // judge result
