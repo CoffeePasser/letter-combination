@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d89f2b2-1ca4-4b49-9e54-b173bb84dc6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/UpgradeZeroToNineKeyBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ZeroToNineKeyBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/UpgradeZeroToNineTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/IDictionary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LetterCombination.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZeroToNineDictionary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZeroToNinetyNineDictionary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LetterCombinationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UpgradeZeroToNineKeyBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UpgradeZeroToNineKeyBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ZeroToNineKeyBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZeroToNineKeyBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/UpgradeZeroToNineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UpgradeZeroToNineTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ZeroToNineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ZeroToNineTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ZeroToNinetyNineTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/IDictionary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LetterCombination.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ZeroToNineDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/letter-combination.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,10 +19,13 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/lettercombination$LetterCombinationTest_test.ic" NAME="LetterCombinationTest.test Coverage Results" MODIFIED="1598373502036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/lettercombination$UpgradeZeroToNineTest_test.ic" NAME="UpgradeZeroToNineTest.test Coverage Results" MODIFIED="1598551748981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/lettercombination$LetterCombinationTest.ic" NAME="LetterCombinationTest Coverage Results" MODIFIED="1598372282732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/lettercombination$ZeroToNineTest_test1.ic" NAME="ZeroToNineTest.test1 Coverage Results" MODIFIED="1598550565454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/lettercombination$ZeroToNineTest_test.ic" NAME="ZeroToNineTest.test Coverage Results" MODIFIED="1598551734655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="218" />
+    <option name="myElementSize" value="33" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -54,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -62,8 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ZeroToNineKeyBoard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="39" lean-forward="true" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+            <state relative-caret-position="272">
+              <caret line="31" column="50" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,11 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/UpgradeZeroToNineKeyBoard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+            <state relative-caret-position="272">
+              <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -83,8 +76,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ZeroToNineTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+            <state relative-caret-position="182">
+              <caret line="41" column="58" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,18 +90,18 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="51">
-                <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+                <caret line="3" selection-start-line="3" selection-end-line="3" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/UpgradeZeroToNineTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+            <state relative-caret-position="182">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -148,11 +141,11 @@
         <option value="$PROJECT_DIR$/src/main/java/KeyBoard.java" />
         <option value="$PROJECT_DIR$/src/test/java/ZeroToNinetyNineTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/UpgradeZeroToNineKeyBoard.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ZeroToNineKeyBoard.java" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/test/java/UpgradeZeroToNineTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ZeroToNineKeyBoard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/UpgradeZeroToNineKeyBoard.java" />
         <option value="$PROJECT_DIR$/src/test/java/ZeroToNineTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/UpgradeZeroToNineTest.java" />
       </list>
     </option>
   </component>
@@ -190,6 +183,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,15 +227,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598549549687" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../digits-keyboard" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598551765085" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -265,22 +258,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ZeroToNineTest.test5">
-    <configuration name="UpgradeZeroToNineTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.UpgradeZeroToNineTest.test">
+    <configuration name="UpgradeZeroToNineTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="letter-combination" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="UpgradeZeroToNineTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UpgradeZeroToNineTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="letter-combination" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="UpgradeZeroToNineTest" />
-      <option name="METHOD_NAME" value="test4" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -291,6 +274,16 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="UpgradeZeroToNineTest" />
       <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZeroToNineTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="letter-combination" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ZeroToNineTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -318,11 +311,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UpgradeZeroToNineTest.test" />
+        <item itemvalue="JUnit.ZeroToNineTest.test" />
+        <item itemvalue="JUnit.ZeroToNineTest.test1" />
         <item itemvalue="JUnit.ZeroToNineTest.test5" />
         <item itemvalue="JUnit.UpgradeZeroToNineTest.test5" />
-        <item itemvalue="JUnit.ZeroToNineTest.test1" />
-        <item itemvalue="JUnit.UpgradeZeroToNineTest.test1" />
-        <item itemvalue="JUnit.UpgradeZeroToNineTest.test4" />
       </list>
     </recent_temporary>
   </component>
@@ -342,49 +335,50 @@
       <workItem from="1598461300424" duration="2780000" />
       <workItem from="1598486047424" duration="2602000" />
       <workItem from="1598535782737" duration="13691000" />
+      <workItem from="1598550492889" duration="1215000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UpgradeZeroToNineTest_test3 - 2020.08.28 at 01h 26m 04s.xml">
-      <configuration name="UpgradeZeroToNineTest.test3" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UpgradeZeroToNineTest_test3 - 2020.08.28 at 01h 26m 13s.xml">
-      <configuration name="UpgradeZeroToNineTest.test3" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UpgradeZeroToNineTest_test3 - 2020.08.28 at 01h 26m 25s.xml">
-      <configuration name="UpgradeZeroToNineTest.test3" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UpgradeZeroToNineTest_test4 - 2020.08.28 at 01h 26m 55s.xml">
-      <configuration name="UpgradeZeroToNineTest.test4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UpgradeZeroToNineTest_test1 - 2020.08.28 at 01h 28m 05s.xml">
-      <configuration name="UpgradeZeroToNineTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ZeroToNineTest_test1 - 2020.08.28 at 01h 28m 33s.xml">
-      <configuration name="ZeroToNineTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UpgradeZeroToNineTest_test5 - 2020.08.28 at 01h 30m 06s.xml">
-      <configuration name="UpgradeZeroToNineTest.test5" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UpgradeZeroToNineTest_test5 - 2020.08.28 at 01h 30m 34s.xml">
-      <configuration name="UpgradeZeroToNineTest.test5" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ZeroToNineTest_test5 - 2020.08.28 at 01h 31m 21s.xml">
       <configuration name="ZeroToNineTest.test5" configurationId="JUnit" />
     </history-entry>
     <history-entry file="ZeroToNineTest_test5 - 2020.08.28 at 01h 31m 46s.xml">
       <configuration name="ZeroToNineTest.test5" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ZeroToNineTest_test1 - 2020.08.28 at 01h 49m 15s.xml">
+      <configuration name="ZeroToNineTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZeroToNineTest_test1 - 2020.08.28 at 01h 49m 27s.xml">
+      <configuration name="ZeroToNineTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZeroToNineTest_test - 2020.08.28 at 01h 54m 04s.xml">
+      <configuration name="ZeroToNineTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZeroToNineTest_test - 2020.08.28 at 01h 54m 10s.xml">
+      <configuration name="ZeroToNineTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZeroToNineTest_test - 2020.08.28 at 01h 59m 03s.xml">
+      <configuration name="ZeroToNineTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UpgradeZeroToNineTest_test - 2020.08.28 at 02h 05m 25s.xml">
+      <configuration name="UpgradeZeroToNineTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZeroToNineTest_test - 2020.08.28 at 02h 07m 09s.xml">
+      <configuration name="ZeroToNineTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UpgradeZeroToNineTest_test - 2020.08.28 at 02h 07m 29s.xml">
+      <configuration name="UpgradeZeroToNineTest.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45520000" />
+    <option name="totallyTimeSpent" value="46735000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26701966" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2708018" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -413,7 +407,7 @@
       <window_info anchor="right" id="Maven" order="6" weight="0.32980332" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5011765" side_tool="true" visible="true" weight="0.022692889" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5011765" side_tool="true" visible="true" weight="0.2987897" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -444,44 +438,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ZeroToNineLetterCombinationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Dictionary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ZeroToNinetyNineLetterCombination.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ZeroToNineLetterCombination.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ZeroToNineLetterCombinationTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Dictionary.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ZeroToNinetyNineLetterCombination.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ZeroToNineLetterCombination.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="49" column="37" selection-start-line="49" selection-start-column="37" selection-end-line="49" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -489,33 +453,16 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="51">
-            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ZeroToNineTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/UpgradeZeroToNineTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        <state relative-caret-position="182">
+          <caret line="41" column="58" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -524,8 +471,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ZeroToNineKeyBoard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="39" lean-forward="true" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+        <state relative-caret-position="272">
+          <caret line="31" column="50" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -534,8 +481,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/UpgradeZeroToNineKeyBoard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        <state relative-caret-position="272">
+          <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/UpgradeZeroToNineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

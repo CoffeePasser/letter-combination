@@ -6,6 +6,8 @@ public class UpgradeZeroToNineKeyBoard extends ZeroToNineKeyBoard {
      */
     @Override
     public String getResult(int[] digits){
+        if(digits.length == 0)
+            return "An empty array was entered";
         StringBuilder sb = new StringBuilder();
         for (int temp : digits){
             if(temp < 0 || temp > 99){
@@ -19,7 +21,7 @@ public class UpgradeZeroToNineKeyBoard extends ZeroToNineKeyBoard {
         }
         String digitsString = sb.toString();
         if (digitsString.length() == 0)
-            return "";
+            return "All numbers entered are 0 or 1";
         return commonCombination(digitsString);
     }
 }
